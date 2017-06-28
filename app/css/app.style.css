@@ -1,0 +1,6 @@
+.componentOne, .componentTwo {
+    display: inline-block;
+    width: 49%;
+    border: 1px solid;
+    vertical-align: top;
+}
